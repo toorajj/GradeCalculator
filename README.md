@@ -1,4 +1,4 @@
-# GradeCalculator
+# Grade Calculator
 
 This program will use pandas to read the .CSV student scores and outputs:
 
